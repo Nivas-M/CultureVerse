@@ -1,0 +1,85 @@
+[
+  {
+    "id": "TRAD-001",
+    "name": "Daivaradhane (Spirit Veneration)",
+    "domain": "Indigenous Living Religion",
+    "scope": "Dakshina Kannada & Udupi",
+    "description": "Indigenous socio-spiritual system where territorial, heroic, and natural spirits are worshipped through hereditary mediums to ensure justice, health, and boundary protection.",
+    "communities": [
+      "Bunts",
+      "Billavas",
+      "Mogaveeras",
+      "Kulalas",
+      "Nalike",
+      "Pambada",
+      "Parava"
+    ],
+    "epistemicStatus": "Documented living practice"
+  },
+  {
+    "id": "TRAD-002",
+    "name": "Nagaradhane (Serpent Veneration)",
+    "domain": "Serpent Totemism & Sacred Groves",
+    "scope": "Coastal Karnataka belt",
+    "description": "Ancient ecological and spiritual worship of serpents through natural forest sanctuaries (Nagabanas), floor powder mandalas, and Vedic-Agamic rites.",
+    "communities": [
+      "Shivalli Brahmins",
+      "Bunts",
+      "Vaidya community",
+      "All coastal households"
+    ],
+    "epistemicStatus": "Documented living practice"
+  },
+  {
+    "id": "TRAD-003",
+    "name": "Dvaita Vedanta Monasticism & Ashta Mathas",
+    "domain": "Philosophical & Monastic System",
+    "scope": "Udupi & Global Dvaita diaspora",
+    "description": "Rigorous dualistic theism founded by Sri Madhvacharya in the 13th century, administered via the rotational biennial Paryaya cycle of eight sovereign monasteries.",
+    "communities": [
+      "Shivalli Madhwa Brahmins",
+      "Vaishnava followers"
+    ],
+    "epistemicStatus": "Historical fact & Living monastic tradition"
+  },
+  {
+    "id": "TRAD-004",
+    "name": "Syncretic Jain-Shaiva-Alupa Traditions",
+    "domain": "Dynastic Feudal Synthesis",
+    "scope": "Belthangady, Karkala, Moodabidri, Venur",
+    "description": "Harmonious institutional synthesis where Jain royal dynasties administered Shaiva sanctums and patronized both Tirthankara Basadis and folk Daivasthanas.",
+    "communities": [
+      "Jain Shravakas",
+      "Bunt Chieftains",
+      "Smartha/Madhwa priests"
+    ],
+    "epistemicStatus": "Historical fact"
+  },
+  {
+    "id": "TRAD-005",
+    "name": "Harake Yakshagana Guilds",
+    "domain": "Votive Sacred Theater",
+    "scope": "Coastal Karnataka",
+    "description": "Institutionalized temple drama troupes (Melas) performing night-long mythological plays sponsored by devotees as solemn vows.",
+    "communities": [
+      "Hereditary artist guilds",
+      "Temple trusts",
+      "All devotees"
+    ],
+    "epistemicStatus": "Documented living practice"
+  },
+  {
+    "id": "TRAD-006",
+    "name": "Aliyasantana Matrilineal Lineage & Oral Epics",
+    "domain": "Social Structure & Oral Epics",
+    "scope": "Tulunadu",
+    "description": "Matrilineal inheritance system codified in folk memory through the oral epics of Siri and Abbaga-Daraga, governing property and ritual descent through sisters.",
+    "communities": [
+      "Bunts",
+      "Billavas",
+      "Mogaveeras",
+      "Jains of Tulunadu"
+    ],
+    "epistemicStatus": "Historical fact & Cultural practice"
+  }
+]

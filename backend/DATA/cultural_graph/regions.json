@@ -1,0 +1,40 @@
+[
+  {
+    "id": "REG-001",
+    "name": "Dakshina Kannada",
+    "vernacularName": "ದಕ್ಷಿಣ ಕನ್ನಡ (ತುಳುನಾಡು)",
+    "geoScope": "Coastal & Foothill belt south of Mulki river down to Chandragiri",
+    "riverBasins": [
+      "Netravati",
+      "Phalguni/Gurupura",
+      "Kumaradhara"
+    ],
+    "primaryLanguage": "Tulu"
+  },
+  {
+    "id": "REG-002",
+    "name": "Udupi",
+    "vernacularName": "ಉಡುಪಿ (ಉತ್ತರ ತುಳುನಾಡು)",
+    "geoScope": "Central coastal belt between Mulki river and Byndoor/Kundapura",
+    "riverBasins": [
+      "Swarna",
+      "Sita",
+      "Pavanje",
+      "Nandini"
+    ],
+    "primaryLanguage": "Tulu / Kundagannada"
+  },
+  {
+    "id": "REG-003",
+    "name": "Uttara Kannada",
+    "vernacularName": "ಉತ್ತರ ಕನ್ನಡ (ಕಾರವಾರ/ಗೋಕರ್ಣ)",
+    "geoScope": "Northern coastal estuaries and Sahyadri ghats up to Karwar",
+    "riverBasins": [
+      "Aghanashini",
+      "Gangavali",
+      "Sharavathi",
+      "Kali"
+    ],
+    "primaryLanguage": "Havyaka Kannada / Konkani"
+  }
+]

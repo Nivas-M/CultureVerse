@@ -1,0 +1,149 @@
+[
+  {
+    "id": "PLC-001",
+    "name": "Mangalore Coastal Belt",
+    "district": "Dakshina Kannada",
+    "significance": "Ancient Alupa capital, confluence of Netravati and Phalguni rivers, home to Kadri, Mangaladevi, and Kudroli.",
+    "ecologicalContext": "Estuarine coastal delta and red laterite ridges"
+  },
+  {
+    "id": "PLC-002",
+    "name": "Kadri Hills",
+    "district": "Dakshina Kannada",
+    "significance": "10th-century confluence of Natha pantha Buddhist-Shaiva hermitage and perennial natural hill springs.",
+    "ecologicalContext": "Laterite hills with 9 sacred natural tanks (Gomukha teertha)"
+  },
+  {
+    "id": "PLC-003",
+    "name": "Kateel Island",
+    "district": "Dakshina Kannada",
+    "significance": "Riverine island shrine situated in the exact center of the sacred Nandini river.",
+    "ecologicalContext": "Perennial river island surrounded by sacred river waters and groves"
+  },
+  {
+    "id": "PLC-004",
+    "name": "Polali Plain",
+    "district": "Dakshina Kannada",
+    "significance": "8th-century clay idol shrine on the banks of Phalguni river, site of historic Chendu football rites.",
+    "ecologicalContext": "Lush alluvial floodplains of the Phalguni river"
+  },
+  {
+    "id": "PLC-005",
+    "name": "Padubidri Grove",
+    "district": "Udupi",
+    "significance": "Dense sacred serpent grove sanctuary and epicenter of biennial Dakkebali Tantric rites.",
+    "ecologicalContext": "Pristine coastal evergreen Nagabana ecosystem"
+  },
+  {
+    "id": "PLC-006",
+    "name": "Barkur Historical Basin",
+    "district": "Udupi",
+    "significance": "Ancient capital of the Alupa maritime kingdom, home to 365 historic temples and coastal trade canals.",
+    "ecologicalContext": "Seetha river estuary and ancient port canals"
+  },
+  {
+    "id": "PLC-007",
+    "name": "Kukke Valley",
+    "district": "Dakshina Kannada",
+    "significance": "Deep rainforest valley at the base of the sacred Kumara Parvatha peak, foremost serpent expiation center.",
+    "ecologicalContext": "Dense tropical rainforest and perennial Kumaradhara river basin"
+  },
+  {
+    "id": "PLC-008",
+    "name": "Enmoor Garodi",
+    "district": "Dakshina Kannada",
+    "significance": "Sacred battlefield and memorial shrine of folk martial heroes Koti and Chennaya.",
+    "ecologicalContext": "Interior agricultural fields and sacred Garodi precinct"
+  },
+  {
+    "id": "PLC-009",
+    "name": "Kuttar Foothill",
+    "district": "Dakshina Kannada",
+    "significance": "Epicenter of the Koragajja subaltern spirit veneration grove.",
+    "ecologicalContext": "Laterite hillock shaded by sacred trees"
+  },
+  {
+    "id": "PLC-010",
+    "name": "Kavathar Alade",
+    "district": "Udupi",
+    "significance": "Hallowed grove for the mass possession trance and oral epic recitation of Princess Siri.",
+    "ecologicalContext": "Ancient open-air grove shrine (Alade)"
+  },
+  {
+    "id": "PLC-011",
+    "name": "Gokarna Coastal Promontory",
+    "district": "Uttara Kannada",
+    "significance": "Sacred headland where the Sahyadri mountains plunge into the Arabian Sea, home of the Atmalinga.",
+    "ecologicalContext": "Rocky promontories, Om Beach, and perennial Koti Theertha reservoir"
+  },
+  {
+    "id": "PLC-012",
+    "name": "Mandarthi",
+    "district": "Udupi",
+    "significance": "Celebrated Shakta temple forest grove and epicenter of major Harake Yakshagana melas.",
+    "ecologicalContext": "Evergreen woodland buffer zone"
+  },
+  {
+    "id": "PLC-013",
+    "name": "Bappanadu (Mulki)",
+    "district": "Dakshina Kannada",
+    "significance": "Historic maritime confluence and sanctuary founded in partnership with Muslim trader Bappa Byari.",
+    "ecologicalContext": "Shambhavi river delta and Arabian sea estuary"
+  },
+  {
+    "id": "PLC-014",
+    "name": "Udupi Car Street Quadrangle",
+    "district": "Udupi",
+    "significance": "Sanctified pilgrim square housing Sri Krishna Matha, Ashta Mathas, and Madhwa Sarovara.",
+    "ecologicalContext": "Ancient stone-paved urban sacred square"
+  },
+  {
+    "id": "PLC-015",
+    "name": "Padumale Memorial Grounds",
+    "district": "Dakshina Kannada",
+    "significance": "Birthplace of heroes Koti and Chennaya and their mother Deyi Baidethi.",
+    "ecologicalContext": "Traditional medicinal plant garden (Deyi Baidethi Vana)"
+  },
+  {
+    "id": "PLC-016",
+    "name": "Malpe Seashore",
+    "district": "Udupi",
+    "significance": "Natural maritime harbor and guardian shrine of sea protector Bobbariya.",
+    "ecologicalContext": "Open sandy coastline and basaltic rock islands"
+  },
+  {
+    "id": "PLC-017",
+    "name": "Ullal Coastal Spit",
+    "district": "Dakshina Kannada",
+    "significance": "Historic seat of Queen Abbakka Chowta and maritime spirit shrines.",
+    "ecologicalContext": "Sand spit between Netravati estuary and open sea"
+  },
+  {
+    "id": "PLC-018",
+    "name": "Dharmasthala Valley",
+    "district": "Dakshina Kannada",
+    "significance": "Confluence of Shaiva, Jain, and Vaishnava worship on the banks of Netravati river.",
+    "ecologicalContext": "Dense Western Ghats rainforest valley"
+  },
+  {
+    "id": "PLC-019",
+    "name": "Karkala Granite Ridge",
+    "district": "Udupi",
+    "significance": "Monolithic Gommateshwara statue (1432 CE), Chaturmukha Basadi, and Venkataramana temple.",
+    "ecologicalContext": "Monolithic granite outcrops and rock-cut water tanks"
+  },
+  {
+    "id": "PLC-020",
+    "name": "Venur Riverside",
+    "district": "Dakshina Kannada",
+    "significance": "Ajila dynasty capital with 38-foot Gommateshwara monolith beside Gurupura river.",
+    "ecologicalContext": "Riverine agricultural valley"
+  },
+  {
+    "id": "PLC-021",
+    "name": "Kollur (Kodachadri Foothills)",
+    "district": "Udupi",
+    "significance": "Sacred seat of Goddess Mookambika established by Adi Shankara on Souparnika river.",
+    "ecologicalContext": "High-altitude Sahyadri rainforest and perennial Souparnika river"
+  }
+]

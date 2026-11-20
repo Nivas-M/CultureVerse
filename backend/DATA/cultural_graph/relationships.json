@@ -1,0 +1,218 @@
+[
+  {
+    "subjectId": "TEMP-003",
+    "predicate": "LOCATED_AT",
+    "objectId": "PLC-003",
+    "epistemicStatus": "HISTORICAL_FACT"
+  },
+  {
+    "subjectId": "TEMP-003",
+    "predicate": "CELEBRATES_FESTIVAL",
+    "objectId": "FST-002",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  },
+  {
+    "subjectId": "TEMP-003",
+    "predicate": "ANCHORS_RITUAL",
+    "objectId": "RIT-011",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  },
+  {
+    "subjectId": "TEMP-003",
+    "predicate": "ANCHORS_RITUAL",
+    "objectId": "RIT-012",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  },
+  {
+    "subjectId": "TEMP-003",
+    "predicate": "CONNECTED_TO_RIVER",
+    "objectId": "ECO-001",
+    "epistemicStatus": "HISTORICAL_FACT"
+  },
+  {
+    "subjectId": "TEMP-003",
+    "predicate": "EXPRESSES_STORY",
+    "objectId": "ST-004",
+    "epistemicStatus": "RELIGIOUS_BELIEF"
+  },
+  {
+    "subjectId": "TEMP-005",
+    "predicate": "LOCATED_AT",
+    "objectId": "PLC-014",
+    "epistemicStatus": "HISTORICAL_FACT"
+  },
+  {
+    "subjectId": "TEMP-005",
+    "predicate": "CELEBRATES_FESTIVAL",
+    "objectId": "FST-005",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  },
+  {
+    "subjectId": "TEMP-005",
+    "predicate": "CELEBRATES_FESTIVAL",
+    "objectId": "FST-011",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  },
+  {
+    "subjectId": "TEMP-005",
+    "predicate": "ANCHORS_RITUAL",
+    "objectId": "RIT-015",
+    "epistemicStatus": "HISTORICAL_FACT"
+  },
+  {
+    "subjectId": "TEMP-005",
+    "predicate": "ORIGINATED_FROM_TRADITION",
+    "objectId": "TRAD-003",
+    "epistemicStatus": "HISTORICAL_FACT"
+  },
+  {
+    "subjectId": "TEMP-005",
+    "predicate": "EXPRESSES_STORY",
+    "objectId": "ST-005",
+    "epistemicStatus": "HISTORICAL_FACT"
+  },
+  {
+    "subjectId": "TEMP-008",
+    "predicate": "LOCATED_AT",
+    "objectId": "PLC-013",
+    "epistemicStatus": "HISTORICAL_FACT"
+  },
+  {
+    "subjectId": "TEMP-008",
+    "predicate": "CELEBRATES_FESTIVAL",
+    "objectId": "FST-001",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  },
+  {
+    "subjectId": "TEMP-008",
+    "predicate": "ANCHORS_RITUAL",
+    "objectId": "RIT-020",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  },
+  {
+    "subjectId": "TEMP-008",
+    "predicate": "EXPRESSES_STORY",
+    "objectId": "ST-007",
+    "epistemicStatus": "HISTORICAL_FACT"
+  },
+  {
+    "subjectId": "TEMP-008",
+    "predicate": "AFFINITY_WITH_COMMUNITY",
+    "objectId": "COM-009",
+    "epistemicStatus": "HISTORICAL_FACT"
+  },
+  {
+    "subjectId": "TEMP-006",
+    "predicate": "LOCATED_AT",
+    "objectId": "PLC-007",
+    "epistemicStatus": "HISTORICAL_FACT"
+  },
+  {
+    "subjectId": "TEMP-006",
+    "predicate": "ANCHORS_RITUAL",
+    "objectId": "RIT-003",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  },
+  {
+    "subjectId": "TEMP-006",
+    "predicate": "ANCHORS_RITUAL",
+    "objectId": "RIT-004",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  },
+  {
+    "subjectId": "TEMP-006",
+    "predicate": "CONNECTED_TO_RIVER",
+    "objectId": "ECO-003",
+    "epistemicStatus": "HISTORICAL_FACT"
+  },
+  {
+    "subjectId": "TEMP-006",
+    "predicate": "ORIGINATED_FROM_TRADITION",
+    "objectId": "TRAD-002",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  },
+  {
+    "subjectId": "TEMP-007",
+    "predicate": "LOCATED_AT",
+    "objectId": "PLC-011",
+    "epistemicStatus": "HISTORICAL_FACT"
+  },
+  {
+    "subjectId": "TEMP-007",
+    "predicate": "CELEBRATES_FESTIVAL",
+    "objectId": "FST-007",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  },
+  {
+    "subjectId": "TEMP-007",
+    "predicate": "ANCHORS_RITUAL",
+    "objectId": "RIT-023",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  },
+  {
+    "subjectId": "TEMP-007",
+    "predicate": "EXPRESSES_STORY",
+    "objectId": "ST-006",
+    "epistemicStatus": "RELIGIOUS_BELIEF"
+  },
+  {
+    "subjectId": "TEMP-007",
+    "predicate": "AFFINITY_WITH_COMMUNITY",
+    "objectId": "COM-006",
+    "epistemicStatus": "HISTORICAL_FACT"
+  },
+  {
+    "subjectId": "TEMP-009",
+    "predicate": "LOCATED_AT",
+    "objectId": "PLC-018",
+    "epistemicStatus": "HISTORICAL_FACT"
+  },
+  {
+    "subjectId": "TEMP-009",
+    "predicate": "CELEBRATES_FESTIVAL",
+    "objectId": "FST-006",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  },
+  {
+    "subjectId": "TEMP-009",
+    "predicate": "ANCHORS_RITUAL",
+    "objectId": "RIT-021",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  },
+  {
+    "subjectId": "TEMP-009",
+    "predicate": "ORIGINATED_FROM_TRADITION",
+    "objectId": "TRAD-004",
+    "epistemicStatus": "HISTORICAL_FACT"
+  },
+  {
+    "subjectId": "TEMP-009",
+    "predicate": "CONNECTED_TO_RIVER",
+    "objectId": "ECO-002",
+    "epistemicStatus": "HISTORICAL_FACT"
+  },
+  {
+    "subjectId": "PLC-010",
+    "predicate": "HOSTS_FESTIVAL",
+    "objectId": "FST-004",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  },
+  {
+    "subjectId": "PLC-010",
+    "predicate": "ANCHORS_RITUAL",
+    "objectId": "RIT-010",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  },
+  {
+    "subjectId": "PLC-010",
+    "predicate": "EXPRESSES_STORY",
+    "objectId": "ST-003",
+    "epistemicStatus": "ORAL_LEGEND"
+  },
+  {
+    "subjectId": "PLC-010",
+    "predicate": "AFFINITY_WITH_TRADITION",
+    "objectId": "TRAD-006",
+    "epistemicStatus": "DOCUMENTED_LIVING_PRACTICE"
+  }
+]

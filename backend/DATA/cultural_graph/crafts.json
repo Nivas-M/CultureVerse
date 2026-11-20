@@ -1,0 +1,72 @@
+[
+  {
+    "id": "CRF-001",
+    "name": "Shilpa Shastra Granite & Stone Sculpting",
+    "vernacularName": "ಶಿಲ್ಪಶಾಸ್ತ್ರ ಶಿಲಾ ಕೆತ್ತನೆ",
+    "region": "Udupi & Karkala",
+    "materials": [
+      "Black granite (Kari shile)",
+      "Laterite (Jambittige)",
+      "Soft soapstone"
+    ],
+    "tradition": "Classical Agamic temple sculpture, sculpting consecrated Lingas, Yakshi icons, and dwarapalakas following Dhyana Shlokas.",
+    "prominentMasters": [
+      "Purushottama Adve",
+      "Karkala Shilpa Kendra sculptors"
+    ],
+    "epistemicStatus": "Documented living craft"
+  },
+  {
+    "id": "CRF-002",
+    "name": "Coastal Temple Wood Carving",
+    "vernacularName": "ದೇವಾಲಯ ಮರ ಕೆತ್ತನೆ",
+    "region": "Dakshina Kannada & Uttara Kannada",
+    "materials": [
+      "Teak (Saaguvani)",
+      "Jackfruit wood (Halasu)",
+      "Rosewood (Beete)"
+    ],
+    "tradition": "Carving ceiling lotus medallions (Brahma Kanta), pillar brackets (Bodigai), and intricate chariot panels depicting Dashavatara.",
+    "prominentMasters": [
+      "Kalladka Ramesh Acharya",
+      "Gudigar master carvers of Sagara and Kumta"
+    ],
+    "epistemicStatus": "Documented living craft"
+  },
+  {
+    "id": "CRF-003",
+    "name": "Kaavi Sgraffito Architectural Murals",
+    "vernacularName": "ಕಾವಿ ಕಲೆ (ಗೋಡೆ ಕೆತ್ತನೆ)",
+    "region": "Konkan coast, Kumta, Ankola, Mangalore",
+    "materials": [
+      "Crushed laterite mud",
+      "Seashell lime plaster",
+      "Fermented jaggery water"
+    ],
+    "tradition": "Etching dynamic white-on-red murals onto wet architectural lime walls using steel burins.",
+    "prominentMasters": [
+      "Dinesh Holla",
+      "Heritage master artisans of Honnavar"
+    ],
+    "epistemicStatus": "Critically endangered heritage craft"
+  },
+  {
+    "id": "CRF-004",
+    "name": "Yakshagana Headdress & Ornament Crafting",
+    "vernacularName": "ಯಕ್ಷಗಾನ ಕಿರೀಟ ಮತ್ತು ವೇಷಭೂಷಣ ನಿರ್ಮಾಣ",
+    "region": "Kundapura & Mangalore",
+    "materials": [
+      "Light Shivani wood",
+      "Cardboard core",
+      "Gold foil / velvet",
+      "Mirror inlays",
+      "Red and green beads"
+    ],
+    "tradition": "Handcrafting majestic Badagu Pagade, Thenku Kadlevale, armlets (Bhuja Keerti), and chest guards (Rompata).",
+    "prominentMasters": [
+      "Uppinakudru artisans",
+      "Kota costume workshops"
+    ],
+    "epistemicStatus": "Documented living craft"
+  }
+]

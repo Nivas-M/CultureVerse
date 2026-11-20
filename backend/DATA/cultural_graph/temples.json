@@ -1,0 +1,92 @@
+[
+  {
+    "id": "TEMP-001",
+    "name": "Mangaladevi Temple",
+    "placeId": "PLC-001",
+    "deity": "Goddess Mangaladevi (Shakti / Dharani)",
+    "era": "9th Century CE (Alupa Dynasty)",
+    "architecturalStyle": "Indigenous Kerala-Tulunadu timber and laterite sloping tiled roof",
+    "anchorSignificance": "Eponymous deity of Mangalore, established by Matsyendranath and King Kundavarma."
+  },
+  {
+    "id": "TEMP-002",
+    "name": "Kadri Manjunatha Temple",
+    "placeId": "PLC-002",
+    "deity": "Lord Manjunatha (Shiva) / Bodhisattva Lokeshwara",
+    "era": "10th Century CE",
+    "architecturalStyle": "Laterite tiered sanctum housing 10th-century world-famous bronze icons",
+    "anchorSignificance": "Living harmony of Natha yogic hermitage, Vajrayana Buddhism, and Shaivism."
+  },
+  {
+    "id": "TEMP-003",
+    "name": "Kateel Sri Durgaparameshwari Temple",
+    "placeId": "PLC-003",
+    "deity": "Goddess Durgaparameshwari (Bhramari)",
+    "era": "Ancient / 11th Century epigraphic renewal",
+    "architecturalStyle": "River-island sanctum constructed within the flowing bed of Nandini river",
+    "anchorSignificance": "World center for Harake Yakshagana and Agni Keli fire rituals."
+  },
+  {
+    "id": "TEMP-004",
+    "name": "Polali Sri Rajarajeshwari Temple",
+    "placeId": "PLC-004",
+    "deity": "Goddess Rajarajeshwari (Clay monolithic icon)",
+    "era": "8th Century CE (King Suratha legend)",
+    "architecturalStyle": "Famed for 10-foot clay medicinal idol (Lepa Murti) and copper-sheeted gopuram",
+    "anchorSignificance": "Site of Polali Chendu sports ritual and ancient terracotta sculpture."
+  },
+  {
+    "id": "TEMP-005",
+    "name": "Udupi Sri Krishna Matha",
+    "placeId": "PLC-014",
+    "deity": "Lord Krishna (Navaneetha Krishna with churning rod)",
+    "era": "13th Century CE (Consecrated by Sri Madhvacharya)",
+    "architecturalStyle": "Ashta Matha monastic quadrangle around Madhwa Sarovara and Kanakana Kindi",
+    "anchorSignificance": "Global fountainhead of Dvaita Vedanta philosophy and Paryaya monastic rotational governance."
+  },
+  {
+    "id": "TEMP-006",
+    "name": "Kukke Sri Subramanya Temple",
+    "placeId": "PLC-007",
+    "deity": "Lord Subramanya (Guha / Kartikeya) protecting Serpent King Vasuki",
+    "era": "Ancient / Puranic mentions in Skanda Purana",
+    "architecturalStyle": "Laterite courtyards at the foot of Western Ghats peak Kumara Parvatha",
+    "anchorSignificance": "Supreme pan-Indian sanctuary for Sarpa Samskara and Ashlesha Bali rites."
+  },
+  {
+    "id": "TEMP-007",
+    "name": "Gokarna Mahabaleshwara Temple",
+    "placeId": "PLC-011",
+    "deity": "Lord Mahabaleshwara (Pranalinga / Atmalinga)",
+    "era": "4th-6th Century CE (Kadamba patronage / Puranic antiquity)",
+    "architecturalStyle": "Granite and laterite Dravidian-Konkan hybrid with sunken Saligrama peetha",
+    "anchorSignificance": "Dakshina Kashi housing the Atmalinga retrieved from Ravana by Ganesha."
+  },
+  {
+    "id": "TEMP-008",
+    "name": "Bappanadu Durgaparameshwari Temple",
+    "placeId": "PLC-013",
+    "deity": "Goddess Durgaparameshwari (Lingarupi)",
+    "era": "12th Century CE",
+    "architecturalStyle": "Expansive courtyard with massive Dhwajasthambha and Dolu drum pavilion",
+    "anchorSignificance": "Symbol of Hindu-Muslim coastal syncretism built through the partnership of Goddess Durga and merchant Bappa Byari."
+  },
+  {
+    "id": "TEMP-009",
+    "name": "Sri Kshetra Dharmasthala",
+    "placeId": "PLC-018",
+    "deity": "Lord Manjunatha (Shiva) and Four Dharma Daivas",
+    "era": "16th Century CE (Heggade chieftainship)",
+    "architecturalStyle": "Sprawling temple city flanked by the Netravati river",
+    "anchorSignificance": "Unique tri-religious synthesis: Jain Heggade custodianship, Vaishnava Madhwa priesthood, Shaivite deity, and folk Daivas."
+  },
+  {
+    "id": "TEMP-010",
+    "name": "Kollur Sri Mookambika Temple",
+    "placeId": "PLC-021",
+    "deity": "Goddess Mookambika (Jyotirlinga & Panchaloha Vigraha)",
+    "era": "Ancient / Consecrated by Adi Shankaracharya (8th Century CE)",
+    "architecturalStyle": "Kerala-Coastal wood-copper architecture with golden crest and Shankara Peetha",
+    "anchorSignificance": "Premier Shakta Vidya Peetha of South India where thousands initiate children into writing (Vidyarambha)."
+  }
+]

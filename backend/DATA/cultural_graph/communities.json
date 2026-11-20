@@ -1,0 +1,110 @@
+[
+  {
+    "id": "COM-001",
+    "name": "Bunts (Nadavas)",
+    "region": "Dakshina Kannada & Udupi",
+    "role": "Historic agrarian landed gentry, chieftains (Guthus), and hereditary patrons of Daivasthanas and Yakshagana melas.",
+    "language": "Tulu (Southern & Northern dialects)",
+    "associatedPractices": [
+      "Aliyasantana matrilineal descent",
+      "Guthu house administration",
+      "Kola patronage"
+    ]
+  },
+  {
+    "id": "COM-002",
+    "name": "Billavas (Poojaris)",
+    "region": "Dakshina Kannada & Udupi",
+    "role": "Traditional archers, Ayurvedic herbalists, toddy tappers, and hereditary custodians of Garodis and the Koti-Chennaya lineage.",
+    "language": "Tulu",
+    "associatedPractices": [
+      "Garodi temple custody",
+      "Martial arts",
+      "Herbal medicine"
+    ]
+  },
+  {
+    "id": "COM-003",
+    "name": "Mogaveeras",
+    "region": "Coastal belt of DK and Udupi",
+    "role": "Indigenous marine fisherfolk, maritime navigators, and sole custodians of Bobbariya sea shrines.",
+    "language": "Tulu / Coastal Kannada",
+    "associatedPractices": [
+      "Deep-sea sailing",
+      "Maritime Daivaradhane",
+      "Dolu drumming"
+    ]
+  },
+  {
+    "id": "COM-004",
+    "name": "Shivalli Madhwa Brahmins",
+    "region": "Udupi & Dakshina Kannada",
+    "role": "Scholastic philosophers, Vedic Tantris, and monastic administrators of Ashta Mathas and classical Agamic sanctums.",
+    "language": "Tulu (Brahmin dialect) / Kannada / Sanskrit",
+    "associatedPractices": [
+      "Dvaita Vedanta",
+      "Paryaya administration",
+      "Vedic fire rituals"
+    ]
+  },
+  {
+    "id": "COM-005",
+    "name": "Gowd Saraswat Brahmins (GSB)",
+    "region": "Mangalore, Karkala, Kundapura, Ankola",
+    "role": "Historic maritime merchants, temple trustees (Venkataramana temples), and Kaavi art patrons who migrated from Goa in the 16th century.",
+    "language": "Konkani",
+    "associatedPractices": [
+      "Kodial Teru car festivals",
+      "Culinary confectionery",
+      "Temple commerce"
+    ]
+  },
+  {
+    "id": "COM-006",
+    "name": "Havyaka Brahmins",
+    "region": "Uttara Kannada & foothills",
+    "role": "Traditional arecanut plantation custodians, Vedic priests of Gokarna Mahabaleshwara, and Badagutittu Yakshagana scholars.",
+    "language": "Havyaka Kannada",
+    "associatedPractices": [
+      "Gokarna Atmalinga liturgies",
+      "Areca agro-forestry",
+      "Yakshagana patronage"
+    ]
+  },
+  {
+    "id": "COM-007",
+    "name": "Jain Communities (Jain Bunts & Shravakas)",
+    "region": "Moodabidri, Karkala, Venur, Dharmasthala",
+    "role": "Historic royal rulers (Alupas, Ajilas, Chowtas), architects of monolithic Gommateshwara statues and Thousand-Pillar Basadis, and hereditary Dharmadhikaris.",
+    "language": "Kannada / Tulu",
+    "associatedPractices": [
+      "Digambara Jainism",
+      "Mahamastakabhisheka",
+      "All-faith humanitarian charity (Dana)"
+    ]
+  },
+  {
+    "id": "COM-008",
+    "name": "Nalike, Pambada, and Parava Communities",
+    "region": "Pan-Tulunadu",
+    "role": "Hereditary shamans, ritual artists, and medium-dancers who alone possess the sacred right to impersonate and channel Daivas in Bootha Kola.",
+    "language": "Tulu",
+    "associatedPractices": [
+      "Daiva possession trance (Aavesha)",
+      "Botanical Ani construction",
+      "Mineral face painting (Banna)"
+    ]
+  },
+  {
+    "id": "COM-009",
+    "name": "Beary Community",
+    "region": "Coastal Dakshina Kannada & Udupi",
+    "role": "Historic coastal Muslim trading, seafaring, and timber community rooted in centuries-old syncretic partnerships with regional Hindu temples.",
+    "language": "Beary Bashe",
+    "associatedPractices": [
+      "Maritime trading",
+      "Bappanadu Dolu patronage",
+      "Timber logistics"
+    ]
+  }
+]

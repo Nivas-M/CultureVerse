@@ -1,0 +1,133 @@
+[
+  {
+    "id": "ART-001",
+    "name": "Badagutittu Yakshagana (Northern Style)",
+    "vernacularName": "ಬಡಗುತಿಟ್ಟು ಯಕ್ಷಗಾನ",
+    "region": "Udupi & Uttara Kannada (Kundapura, Honnavar, Sirsi)",
+    "keyElements": [
+      "High-pitched Chande rhythms",
+      "Vibrant pirouettes and energetic jumps (Gudikattu)",
+      "Distinct bell-shaped turbans and large Kiritas",
+      "Emphasis on physical agility and dance steps"
+    ],
+    "musicalEnsemble": [
+      "Chande",
+      "Maddale",
+      "Tala (cymbals)",
+      "Bhagavatha vocal singing"
+    ],
+    "prominentGurus": [
+      "Guru Bannanje Sanjeeva Suvarna",
+      "Keremane Shivarama Hegde",
+      "Chittani Ramachandra Hegde"
+    ],
+    "epistemicStatus": "Documented living practice"
+  },
+  {
+    "id": "ART-002",
+    "name": "Tenkutittu Yakshagana (Southern Style)",
+    "vernacularName": "ತೆಂಕುತಿಟ್ಟು ಯಕ್ಷಗಾನ",
+    "region": "Dakshina Kannada & Kasaragod",
+    "keyElements": [
+      "Kathakali-influenced facial makeup and rounded headgear (Kadlevale)",
+      "Continuous dizzying spins (Bramhari)",
+      "Rich theatrical dialogue and emotive acting",
+      "Dominant Chenda and Maddale syncopation"
+    ],
+    "musicalEnsemble": [
+      "Chenda (vertical)",
+      "Maddale (horizontal)",
+      "Jagate (bronze gong)",
+      "Bhagavatha lead singer"
+    ],
+    "prominentGurus": [
+      "Patla Sathish Shetty",
+      "Kolyur Ramachandra Rao",
+      "Sheni Gopalakrishna Bhat"
+    ],
+    "epistemicStatus": "Documented living practice"
+  },
+  {
+    "id": "ART-003",
+    "name": "Talamaddale",
+    "vernacularName": "ತಾಳಮದ್ದಳೆ",
+    "region": "Pan-Coastal Karnataka",
+    "keyElements": [
+      "Seated impromptu intellectual debate without costumes or makeup",
+      "High literary Kannada and Tulu rhetoric",
+      "Profound philosophical interpretation of mythological characters",
+      "Musical anchoring by Bhagavatha and Maddale"
+    ],
+    "musicalEnsemble": [
+      "Maddale",
+      "Tala",
+      "Bhagavatha singing"
+    ],
+    "prominentGurus": [
+      "Dr. M. Prabhakar Joshi",
+      "Dr. Shridhara Bhandary",
+      "M.M. Hegde"
+    ],
+    "epistemicStatus": "Documented living practice"
+  },
+  {
+    "id": "ART-004",
+    "name": "Pili Vesha / Huli Vesha (Tiger Dance)",
+    "vernacularName": "ಪಿಲಿ ವೇಷ (ಹುಲಿ ವೇಷ)",
+    "region": "Dakshina Kannada & Udupi",
+    "keyElements": [
+      "Body painted head-to-toe with yellow, black, and white realistic tiger stripes",
+      "Fierce acrobatic backflips, rolling, and sheep-lifting teeth feats",
+      "Thunderous Tashe and Thaase beat accompaniment during Dasara and Krishna Janmashtami"
+    ],
+    "musicalEnsemble": [
+      "Tashe drums (steel cylindrical drums struck with cane sticks)",
+      "Dolu"
+    ],
+    "prominentGurus": [
+      "Hereditary gymnasium (Garodi) troupes across Mangalore and Udupi"
+    ],
+    "epistemicStatus": "Documented living practice"
+  },
+  {
+    "id": "ART-005",
+    "name": "Togalu Gombeyata (Leather Puppet Theater)",
+    "vernacularName": "ತೊಗಲು ಗೊಂಬೆಯಾಟ",
+    "region": "Kundapura & Kasaragod",
+    "keyElements": [
+      "Translucent deerskin or goatskin puppets manipulated behind an illuminated white cloth screen",
+      "Enacts episodes from Ramayana and Mahabharata",
+      "Chanted prose and rhythm"
+    ],
+    "musicalEnsemble": [
+      "Mukhaveena",
+      "Ekkalam",
+      "Maddale",
+      "Tala"
+    ],
+    "prominentGurus": [
+      "Uppinakudru Kogga Kamath Lineage",
+      "Bhaskar Kamath"
+    ],
+    "epistemicStatus": "Documented living practice / UNESCO-recognized heritage"
+  },
+  {
+    "id": "ART-006",
+    "name": "Paddana Recitation",
+    "vernacularName": "ಪಾಡ್ಡನ ಗಾಯನ",
+    "region": "Pan-Tulunadu",
+    "keyElements": [
+      "Unaccompanied or Temere-backed oral epic ballad singing",
+      "Sung primarily by women during paddy transplanting or by male mediums during Daiva invocations",
+      "Contains linguistic memory of ancient Tulu syntax, flora, and feudal history"
+    ],
+    "musicalEnsemble": [
+      "Temere drum (optional) or rhythmic hand clapping"
+    ],
+    "prominentGurus": [
+      "Bannanje Babu Amin",
+      "Dr. Indira Ballal (Archivist)"
+    ],
+    "epistemicStatus": "Documented living practice & Intangible cultural heritage"
+  }
+]

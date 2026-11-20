@@ -1,0 +1,411 @@
+[
+  {
+    "id": "FST-001",
+    "name": "Bappanadu Dolu Utsava",
+    "domain": "Temple Festival / Syncretic Percussion",
+    "region": "Dakshina Kannada (Mulki)",
+    "associatedPlace": "PLC-013: Bappanadu",
+    "timeCalendar": "Meena-Mesha Masa (March–April)",
+    "frequency": "Annual (7 days)",
+    "description": "Renowned coastal festival founded on the historical friendship of Goddess Durga and Muslim merchant Bappa Byari, celebrated with non-stop beating of giant copper Dolu drums.",
+    "keyPractices": [
+      "Mass Dolu drumming",
+      "Distribution of first Prasada to Bappa Byari descendants",
+      "Grand Brahma Rathotsava"
+    ],
+    "culturalSignificance": "A living beacon of coastal inter-faith brotherhood and community cohesion.",
+    "relatedRituals": [
+      "RIT-020: Bappanadu Dolu Utsava & Bali"
+    ],
+    "relatedArts": [
+      "Traditional coastal percussion",
+      "Yakshagana"
+    ],
+    "relatedCommunities": [
+      "Bunts",
+      "Bearys",
+      "Devadiga drummers",
+      "Billavas"
+    ],
+    "relatedStories": [
+      "ST-007: Legend of Bappanadu and Bappa Byari"
+    ],
+    "source": "Bappanadu Temple Endowment Epigraphs, South Canara District Manual",
+    "epistemicStatus": "Historical fact & Documented living practice",
+    "verificationStatus": "Verified from inscriptional records"
+  },
+  {
+    "id": "FST-002",
+    "name": "Kateel Mesha Jathre & Agni Keli",
+    "domain": "Shakta Temple Festival",
+    "region": "Dakshina Kannada (Kateel)",
+    "associatedPlace": "PLC-003: Kateel Island",
+    "timeCalendar": "Mesha Masa (April), 8 days",
+    "frequency": "Annual",
+    "description": "The monumental annual car festival of Goddess Durgaparameshwari on the Nandini river island, culminating in the fiery Agni Keli torch-hurling ritual.",
+    "keyPractices": [
+      "Rathotsava on river banks",
+      "Agni Keli (torch battle)",
+      "Nightly Harake Yakshagana melas",
+      "Avabhritha bath in Nandini river"
+    ],
+    "culturalSignificance": "Ritually reenacts the annihilation of demon Arunasura by Goddess Durga manifesting as a swarm of bees (Bhramari).",
+    "relatedRituals": [
+      "RIT-011: Harake Yakshagana",
+      "RIT-012: Agni Keli",
+      "RIT-027: Avabhritha Snana"
+    ],
+    "relatedArts": [
+      "Thenku Thittu Yakshagana",
+      "Chande drum ensemble"
+    ],
+    "relatedCommunities": [
+      "Kodethoor and Athoor villagers",
+      "Brahmin Archaks",
+      "All coastal devotees"
+    ],
+    "relatedStories": [
+      "ST-004: Myth of Kateel and Demon Arunasura"
+    ],
+    "source": "Kateel Kshetra Mahatmya, District Gazetteers",
+    "epistemicStatus": "Documented living practice & Religious belief",
+    "verificationStatus": "Verified from temple operational records"
+  },
+  {
+    "id": "FST-003",
+    "name": "Padubidri Dakkebali Utsava",
+    "domain": "Serpent Tantric Festival",
+    "region": "Udupi (Padubidri)",
+    "associatedPlace": "PLC-005: Padubidri Grove",
+    "timeCalendar": "Makara Masa (January–February)",
+    "frequency": "Biennial (every 2 years)",
+    "description": "Nocturnal Tantric festival dedicated to Naga spirits and Mother Goddess Mahalingeshwari, famous for the hypnotic Dakke percussion and spiraling trance dances.",
+    "keyPractices": [
+      "Drawing of Pavithra Mandala",
+      "Dakke percussion invocation by Vaidyas",
+      "Ecstatic Patri trance dances holding areca flowers"
+    ],
+    "culturalSignificance": "Vital living link between coastal evergreen grove preservation and esoteric Tantric serpent worship.",
+    "relatedRituals": [
+      "RIT-001: Nagamandala",
+      "RIT-002: Dakkebali"
+    ],
+    "relatedArts": [
+      "Naga Vaidya singing",
+      "Panchavarna mandala drawing"
+    ],
+    "relatedCommunities": [
+      "Vaidya community",
+      "Bunts",
+      "Mogaveeras",
+      "Brahmins"
+    ],
+    "relatedStories": [
+      "ST-001: Origin of Tulunadu Serpent Groves"
+    ],
+    "source": "Peter J. Claus, Padubidri Temple Records",
+    "epistemicStatus": "Documented living practice",
+    "verificationStatus": "Verified from primary coastal ethnographic documentation"
+  },
+  {
+    "id": "FST-004",
+    "name": "Siri Jatre",
+    "domain": "Oral Epic & Mass Trance Conclave",
+    "region": "Udupi / Dakshina Kannada",
+    "associatedPlace": "PLC-010: Kavathar Alade",
+    "timeCalendar": "Chaitra Shuddha Pournami (March–April full moon)",
+    "frequency": "Annual",
+    "description": "Mass assembly where thousands of women congregate under the full moon at sacred Alade groves, entering spontaneous therapeutic possession under the guidance of Kumara bards.",
+    "keyPractices": [
+      "Chanting of the 15,000-line Siri Paddana",
+      "Mass trance possession of women holds areca flowers",
+      "Cathartic healing of psychological trauma"
+    ],
+    "culturalSignificance": "The world’s largest documented living feminist oral tradition and folk psychotherapy ritual.",
+    "relatedRituals": [
+      "RIT-010: Siri Alade Ritual"
+    ],
+    "relatedArts": [
+      "Paddana oral singing"
+    ],
+    "relatedCommunities": [
+      "All coastal women",
+      "Kumara hereditary priests"
+    ],
+    "relatedStories": [
+      "ST-003: Epic of Princess Siri and Aliyasantana Justice"
+    ],
+    "source": "Lauri Honko (The Siri Epic, 2 vols), Finnish Academy of Science and Letters",
+    "epistemicStatus": "Documented living practice & Anthropologically verified",
+    "verificationStatus": "Verified from academic publications"
+  },
+  {
+    "id": "FST-005",
+    "name": "Udupi Paryaya Mahotsava",
+    "domain": "Dvaita Monastic Succession Festival",
+    "region": "Udupi",
+    "associatedPlace": "PLC-014: Udupi Car Street",
+    "timeCalendar": "Even years, January 17–18",
+    "frequency": "Biennial (every 2 years)",
+    "description": "The monumental ascension ceremony where the pontiff of one of the eight sovereign Ashta Mathas assumes worship and feeding rights of Sri Krishna Matha for two years.",
+    "keyPractices": [
+      "Pre-dawn dip at Danda Theertha",
+      "Palanquin procession across Car Street",
+      "Ceremonial handover of Akshaya Patra and keys",
+      "Ascension of Sarvajna Peetha"
+    ],
+    "culturalSignificance": "A 500-year-old operational model of rotating decentralized democratic monastic governance.",
+    "relatedRituals": [
+      "RIT-015: Paryaya Sarvajna Peetha Arohana"
+    ],
+    "relatedArts": [
+      "Classical Carnatic & Haridasa music",
+      "Temple bronze chariot making"
+    ],
+    "relatedCommunities": [
+      "Shivalli Madhwa Brahmins",
+      "Vaishnava pilgrims from across India"
+    ],
+    "relatedStories": [
+      "ST-005: Sri Madhvacharya and Kanakadasa at Kanakana Kindi"
+    ],
+    "source": "Sri Krishna Matha Archival Chronicles",
+    "epistemicStatus": "Historical fact & Documented living practice",
+    "verificationStatus": "Verified from primary monastic records"
+  },
+  {
+    "id": "FST-006",
+    "name": "Laksha Deepotsava (Dharmasthala)",
+    "domain": "Illumination & Interfaith Conclave",
+    "region": "Dakshina Kannada (Dharmasthala)",
+    "associatedPlace": "PLC-018: Dharmasthala Valley",
+    "timeCalendar": "Karthika Bahula Amavasya (November–December, 5 days)",
+    "frequency": "Annual",
+    "description": "Lighting of over 100,000 earthen oil lamps across the Netravati valley accompanied by all-faith assemblies and grand chariot processions.",
+    "keyPractices": [
+      "Lighting of 100,000 clay oil lamps",
+      "Sarva Dharma Sammelana",
+      "Sahitya Sammelana",
+      "Mass free feeding (Annadana) of 50,000+ daily"
+    ],
+    "culturalSignificance": "Reinforces the four pillars of Dharmasthala: Anna (food), Abhaya (refuge), Aushadha (medicine), and Vidya (education).",
+    "relatedRituals": [
+      "RIT-021: Laksha Deepotsava"
+    ],
+    "relatedArts": [
+      "Yakshagana",
+      "Classical music and dance"
+    ],
+    "relatedCommunities": [
+      "Jains",
+      "Vaishnavas",
+      "Shaivas",
+      "Devotees of all faiths"
+    ],
+    "relatedStories": [
+      "ST-008: Legend of Barmana Heggade and the Four Dharma Daivas"
+    ],
+    "source": "Sri Kshetra Dharmasthala Trust Records",
+    "epistemicStatus": "Historical fact & Documented living practice",
+    "verificationStatus": "Verified from institutional archives"
+  },
+  {
+    "id": "FST-007",
+    "name": "Gokarna Mahashivaratri & Brahma Rathotsava",
+    "domain": "Shaivite Vedic Car Festival",
+    "region": "Uttara Kannada (Gokarna)",
+    "associatedPlace": "PLC-011: Gokarna Promontory",
+    "timeCalendar": "Magha Krishna Chaturdashi (February–March, 9 days)",
+    "frequency": "Annual",
+    "description": "Epic car festival where two massive wooden chariots (Maha Ratha and Chikka Ratha) are hauled through the temple streets to honor the Atmalinga.",
+    "keyPractices": [
+      "Pulling of giant wooden temple chariots",
+      "Holy dip at Koti Theertha and Arabian Sea",
+      "All-night Vedic chanting and Bilva archana"
+    ],
+    "culturalSignificance": "The preeminent Shaivite coastal congregation honoring the foundational Atmalinga of Ravana legend.",
+    "relatedRituals": [
+      "RIT-023: Atmalinga Abhisheka & Koti Theertha Snana"
+    ],
+    "relatedArts": [
+      "Vedic chanting (Taittiriya Samhita)",
+      "Traditional chariot carving"
+    ],
+    "relatedCommunities": [
+      "Havyaka Brahmins",
+      "Shaivite pilgrims"
+    ],
+    "relatedStories": [
+      "ST-006: Ravana, Ganesha, and the Rooting of the Atmalinga"
+    ],
+    "source": "Gokarna Mahatmya (Skanda Purana), Uttara Kannada District Gazetteer",
+    "epistemicStatus": "Historical fact & Religious belief",
+    "verificationStatus": "Verified from temple operational records"
+  },
+  {
+    "id": "FST-008",
+    "name": "Polali Chendu Utsava",
+    "domain": "Martial Temple Sports Festival",
+    "region": "Dakshina Kannada (Polali)",
+    "associatedPlace": "PLC-004: Polali Plain",
+    "timeCalendar": "Meena Masa (March–April, 5 days)",
+    "frequency": "Annual",
+    "description": "Unique 5-day football tournament played with a handmade leather ball on the temple fields between territorial divisions Malgodu and Thodu.",
+    "keyPractices": [
+      "Five-day non-stop field matches",
+      "Consecration of the leather ball by temple elders",
+      "Genda fire walking penance"
+    ],
+    "culturalSignificance": "Transformation of ancient village clan battles into consecrated athletic worship of Goddess Rajarajeshwari.",
+    "relatedRituals": [
+      "RIT-013: Genda Seva",
+      "RIT-014: Polali Chendu Utsava"
+    ],
+    "relatedArts": [
+      "Chendu crafting by Cobbler guild"
+    ],
+    "relatedCommunities": [
+      "Bunts",
+      "Billavas",
+      "Kulalas",
+      "Samagara craftsmen"
+    ],
+    "relatedStories": [
+      "ST-009: King Suratha and the 8th-Century Lepa Murti of Polali"
+    ],
+    "source": "Polali Kshetra Mahatmya, Inscriptional records",
+    "epistemicStatus": "Documented living practice",
+    "verificationStatus": "Verified from temple archives"
+  },
+  {
+    "id": "FST-009",
+    "name": "Keddasa Earth Fertility Observance",
+    "domain": "Agrarian & Earth Regeneration Festival",
+    "region": "Pan-Tulunadu (Dakshina Kannada, Udupi, Kasaragod)",
+    "associatedPlace": "PLC-001: Agrarian countryside",
+    "timeCalendar": "Ponny month (February 5–8)",
+    "frequency": "Annual (3 days)",
+    "description": "Universal three-day holiday for the soil, observing the menstruation of Mother Earth by prohibiting all digging, plowing, and cutting of vegetation.",
+    "keyPractices": [
+      "Total cessation of agricultural labor",
+      "Bathing the earth on third day with oil and turmeric",
+      "Preparation of Keddaseda Kudu medicinal horsegram porridge"
+    ],
+    "culturalSignificance": "Indigenous ecological conservation covenant enforcing restorative rest for topsoil.",
+    "relatedRituals": [
+      "RIT-008: Tambila",
+      "RIT-009: Keddasa"
+    ],
+    "relatedArts": [
+      "Folk storytelling around hearths"
+    ],
+    "relatedCommunities": [
+      "All agrarian and farming communities"
+    ],
+    "relatedStories": [
+      "ST-001: Sacred Earth Covenants of Tulunadu"
+    ],
+    "source": "Peter J. Claus, Indira Ballal research",
+    "epistemicStatus": "Documented living practice",
+    "verificationStatus": "Verified from ethnographic literature"
+  },
+  {
+    "id": "FST-010",
+    "name": "Aati Amavasya (Kashaya & Ancestral Day)",
+    "domain": "Ethno-Botanical & Ancestral Festival",
+    "region": "Pan-Tulunadu",
+    "associatedPlace": "PLC-026: Narahari Parvatha, PLC-027: Karinjeshwara",
+    "timeCalendar": "Ashadha/Aati new moon morning (July–August)",
+    "frequency": "Annual (Single day)",
+    "description": "Pre-dawn medicinal festival where every family harvests and drinks the bitter immune-boosting potion from the bark of the sacred Paale tree.",
+    "keyPractices": [
+      "Pre-dawn stripping of Paale bark with stones",
+      "Drinking bitter medicinal Kashaya",
+      "Sea bath at Someshwara and mountain dip at Narahari Parvatha"
+    ],
+    "culturalSignificance": "Synchronizes indigenous human biology with monsoon seasonal pathogens through traditional pharmacology.",
+    "relatedRituals": [
+      "RIT-019: Aati Kalenja",
+      "RIT-028: Aati Amavasya Kashaya Day"
+    ],
+    "relatedArts": [
+      "Aati Kalenja mask painting"
+    ],
+    "relatedCommunities": [
+      "Universal coastal population (Tuluvas, Konkanis, Bearys, Brahmins)"
+    ],
+    "relatedStories": [
+      "ST-010: The Medicinal Covenant of the Paale Tree"
+    ],
+    "source": "National Institute of Traditional Medicine (ICMR)",
+    "epistemicStatus": "Documented living practice & Botanical traditional account",
+    "verificationStatus": "Verified from botanical field research"
+  },
+  {
+    "id": "FST-011",
+    "name": "Udupi Krishna Janmashtami & Mosaru Kudike",
+    "domain": "Vaishnava Devotional & Street Festival",
+    "region": "Udupi",
+    "associatedPlace": "PLC-014: Udupi Car Street",
+    "timeCalendar": "Bhadrapada Krishna Ashtami (August–September, 2 days)",
+    "frequency": "Annual",
+    "description": "Vibrant celebration featuring midnight Arghya to Lord Krishna followed on the next day by Mosaru Kudike (breaking earthen curd pots suspended on tall poles).",
+    "keyPractices": [
+      "Fasting until midnight moonrise",
+      "Clay idol immersion in Madhwa Sarovara",
+      "Huli Vesha (Tiger dance) troupes",
+      "Mosaru Kudike pot-breaking contests"
+    ],
+    "culturalSignificance": "Transforms the scholastic monasticism of Udupi into a joyous democratic street festival of music and dance.",
+    "relatedRituals": [
+      "RIT-015: Paryaya liturgies"
+    ],
+    "relatedArts": [
+      "Pili Vesha (Tiger dance)",
+      "Chande-Maddale percussion"
+    ],
+    "relatedCommunities": [
+      "Shivalli Brahmins",
+      "Youth guilds from all coastal communities"
+    ],
+    "relatedStories": [
+      "ST-005: Kanakadasa and Navaneetha Krishna"
+    ],
+    "source": "Udupi Matha Chronicles, Karnataka State Gazetteers",
+    "epistemicStatus": "Historical fact & Documented living practice",
+    "verificationStatus": "Verified from operational festival records"
+  },
+  {
+    "id": "FST-012",
+    "name": "Nagara Panchami",
+    "domain": "Serpent Propitiation Festival",
+    "region": "Pan-Coastal Karnataka",
+    "associatedPlace": "PLC-005: Padubidri, PLC-007: Kukke Subramanya",
+    "timeCalendar": "Shravana Shuddha Panchami (July–August)",
+    "frequency": "Annual",
+    "description": "Premier monsoon festival honoring serpent deities where families pour cold cow milk and tender coconut water over stone Naga idols in sacred Nagabanas.",
+    "keyPractices": [
+      "Milk abhisheka to stone Naga idols",
+      "Offering of Pingara areca blossoms and turmeric paste",
+      "Deep reverence for biological and spiritual serpents"
+    ],
+    "culturalSignificance": "Guarantees the strict protection of fragile coastal evergreen sacred groves (Nagabanas) against deforestation.",
+    "relatedRituals": [
+      "RIT-001: Nagamandala",
+      "RIT-003: Ashlesha Bali"
+    ],
+    "relatedArts": [
+      "Mandala drawing",
+      "Flute and drum invocations"
+    ],
+    "relatedCommunities": [
+      "Universal Hindu coastal communities"
+    ],
+    "relatedStories": [
+      "ST-001: Parashurama and the Serpent Kings of the Western Sea"
+    ],
+    "source": "B.A. Saletore, Regional Temple Trust manuals",
+    "epistemicStatus": "Documented living practice",
+    "verificationStatus": "Verified from living practice documentation"
+  }
+]

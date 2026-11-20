@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ST-001",
+    "title": "Creation of Tulunadu (Parashurama Srishti)",
+    "relatedPlace": "PLC-001 / PLC-011: Arabian Sea Coast",
+    "narrative": "Sage Parashurama, seeking penance for his warfare, hurled his divine battle-axe southward from Gokarna into the Arabian Sea. Varuna, god of oceans, retreated to the point where the axe fell, exposing the lush coastal territory of Parashurama Kshetra (modern Tulunadu and Konkan). Parashurama assigned guardian serpent spirits (Nagas) to neutralize the subterranean salt deposits and render the coastal soil fertile for human civilization.",
+    "knowledgeType": "Puranic Origin Myth",
+    "epistemicStatus": "Traditional account & Religious belief",
+    "source": "Sahyadri Khanda (Skanda Purana), Grama Paddhati chronicles",
+    "notes": "Geologically interpreted by modern scholars as historical coastal uplift and mangrove reclamation during the mid-Holocene."
+  },
+  {
+    "id": "ST-002",
+    "title": "The Epic of Koti and Chennaya Baidya",
+    "relatedPlace": "PLC-008: Enmoor, PLC-015: Padumale",
+    "narrative": "Born to Deyi Baidethi, an expert herbal healer of Padumale, twin brothers Koti and Chennaya grew to become extraordinary archers and warriors. Defying the feudal tyrannies of regional Ballal chieftains, the twins defended peasant autonomy and established Garodis. Mortally wounded through courtly deceit during the battle of Enmoor, they transformed into immortal tutelary guardian spirits promising perpetual protection to the oppressed.",
+    "knowledgeType": "Subaltern Heroic Epic",
+    "epistemicStatus": "Historical folklore & Documented living tradition",
+    "source": "Koti-Chennaya Paddana (over 10,000 oral verses), B.A. Saletore archives",
+    "notes": "Recognized as one of the finest vernacular social justice epics in medieval South Asia."
+  },
+  {
+    "id": "ST-003",
+    "title": "The Feminist Epic of Princess Siri",
+    "relatedPlace": "PLC-010: Kavathar Alade, PLC-011: Nandikoor",
+    "narrative": "Princess Siri of the royal house of Majalu, abandoned by a deceitful husband and disowned by patriarchal relatives, fiercely asserted her birthright to ancestral land. Renouncing kingdom and luxury, she journeyed across Tulunadu, performing miracles, establishing Alades, and establishing the Aliyasantana matrilineal code to ensure all daughters inherited land and lineage dignity independently of marital ties.",
+    "knowledgeType": "Matrilineal Feminist Oral Epic",
+    "epistemicStatus": "Oral legend & Documented living practice",
+    "source": "Siri Paddana, Lauri Honko (Finnish Folklore Communications)",
+    "notes": "Forms the psychological and liturgical bedrock of the annual mass trance healings during Siri Jatre."
+  },
+  {
+    "id": "ST-004",
+    "title": "Myth of Kateel and Demon Arunasura",
+    "relatedPlace": "PLC-003: Kateel Island",
+    "narrative": "Demon Arunasura secured a celestial boon making him immune to death by any four-legged or two-legged being, human or weapon. As drought and terror engulfed the coast, Sage Jabali invoked Goddess Durga. The Goddess appeared before Arunasura and, when attacked, manifested into a colossal swarm of venomous bees (Bhramari), stinging the demon to death in the middle of the river. The grateful sage consecrated her as Durgaparameshwari upon a river island (Kati-Ila: Kateel).",
+    "knowledgeType": "Sanctum Sthala Purana",
+    "epistemicStatus": "Religious belief & Traditional account",
+    "source": "Kateel Sthala Mahatmya, Padma Purana recensions",
+    "notes": "Explains the consecrated location of the sanctum in the middle of flowing river waters."
+  },
+  {
+    "id": "ST-005",
+    "title": "Kanakadasa and Kanakana Kindi",
+    "relatedPlace": "PLC-014: Udupi Sri Krishna Matha",
+    "narrative": "In the 16th century, saint-philosopher Kanakadasa, belonging to the Kuruba community, was barred entry into the inner sanctum of Udupi Sri Krishna Matha due to prevailing caste orthodoxy. Kanakadasa stood weeping at the western outer wall, singing verses of utter devotion. Miraculously, the granite wall cracked open, and the stone idol of Lord Krishna turned 180 degrees westward to bestow darshan to his beloved subaltern saint.",
+    "knowledgeType": "Hagiographical Miracle Account",
+    "epistemicStatus": "Historical fact (Kanakadasa’s historical presence) & Religious miracle belief",
+    "source": "Haridasa Sahitya, Udupi Matha historical epigraphs",
+    "notes": "To this day, all pilgrims must view Lord Krishna exclusively through the silver-plated Kanakana Kindi window."
+  },
+  {
+    "id": "ST-006",
+    "title": "Atmalinga and the Cow’s Ear of Gokarna",
+    "relatedPlace": "PLC-011: Gokarna Promontory",
+    "narrative": "Ravana performed terrifying austerities on Mount Kailash to win Shiva’s personal Atmalinga, which would grant him absolute invulnerability. Shiva granted it under the strict condition that it must never touch the ground before reaching Lanka. The gods, terrified of Ravana’s impending power, dispatched Ganesha disguised as a young cowherd boy. Ganesha tricked Ravana into handing him the linga while Ravana performed evening ablutions, planting it firmly into the coastal granite rock. Ravana tried in vain to uproot it, twisting it into the shape of a cow’s ear (Gokarna).",
+    "knowledgeType": "Puranic Kshetra Sthala Purana",
+    "epistemicStatus": "Puranic religious belief",
+    "source": "Gokarna Mahatmya (Skanda Purana), Shiva Purana",
+    "notes": "Constitutes the religious foundation of Gokarna as one of the holiest Muktikshetras of India."
+  },
+  {
+    "id": "ST-007",
+    "title": "Bappa Byari and the Founding of Bappanadu",
+    "relatedPlace": "PLC-013: Bappanadu (Mulki)",
+    "narrative": "Centuries ago, a merchant vessel belonging to Muslim trader Bappa Byari was caught in a violent storm off the Mulki coast and struck a hidden reef. In mortal peril, Bappa saw a radiant vision of Goddess Durgaparameshwari, who commanded him to have faith and guided his damaged boat safely into the Shambhavi estuary. In deep gratitude, Bappa donated his immense trading fortune to construct the grand temple of Bappanadu, with Goddess Durga declaring that his family would forever receive her first divine honours.",
+    "knowledgeType": "Syncretic Historical Legend",
+    "epistemicStatus": "Historical fact (endowment) & Traditional account",
+    "source": "Bappanadu Temple Stone Inscriptions, District Manuals",
+    "notes": "A celebrated historical anchor of communal peace in Coastal Karnataka."
+  }
+]

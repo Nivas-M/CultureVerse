@@ -1,0 +1,161 @@
+@import 'leaflet/dist/leaflet.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* CultureVerse Editorial Benchmark Palette */
+    /* Primary: warm ivory / parchment #F5F0E7 */
+    --background: 38 35% 93%;
+    /* Text: deep charcoal brown #2B211B */
+    --foreground: 24 22% 14%;
+
+    /* Card: secondary warm cream #EFE7DA */
+    --card: 38 33% 90%;
+    --card-foreground: 24 22% 14%;
+
+    --popover: 38 35% 93%;
+    --popover-foreground: 24 22% 14%;
+
+    /* Primary accent: burnt terracotta #C9562D */
+    --primary: 16 63% 48%;
+    --primary-foreground: 38 35% 96%;
+
+    /* Secondary: warmer cream #EFE7DA */
+    --secondary: 38 33% 90%;
+    --secondary-foreground: 24 22% 14%;
+
+    /* Muted: soft stone #E8DFD1 */
+    --muted: 38 25% 86%;
+    --muted-foreground: 28 9% 42%;
+
+    /* Accent: warm saffron / muted orange #D9782A */
+    --accent: 27 69% 51%;
+    --accent-foreground: 38 35% 96%;
+
+    --destructive: 0 75% 50%;
+    --destructive-foreground: 38 35% 96%;
+
+    /* Border: quiet stone hairline #D8CEBE */
+    --border: 36 24% 80%;
+    --input: 36 24% 80%;
+    --ring: 16 63% 48%;
+
+    --radius: 0.25rem;
+
+    /* Semantic Editorial Tokens */
+    --tv-ivory: #F5F0E7;
+    --tv-cream: #EFE7DA;
+    --tv-dark: #24170F;
+    --tv-terracotta: #C9562D;
+    --tv-saffron: #D9782A;
+    --tv-charcoal: #2B211B;
+    --tv-muted: #756B62;
+    --tv-border: #D8CEBE;
+  }
+
+  .dark {
+    --background: 23 41% 10%;
+    --foreground: 38 35% 93%;
+    --card: 24 35% 13%;
+    --card-foreground: 38 35% 93%;
+    --popover: 24 35% 13%;
+    --popover-foreground: 38 35% 93%;
+    --primary: 16 63% 52%;
+    --primary-foreground: 38 35% 96%;
+    --secondary: 24 25% 18%;
+    --secondary-foreground: 38 35% 93%;
+    --muted: 24 20% 20%;
+    --muted-foreground: 36 15% 65%;
+    --accent: 27 69% 55%;
+    --accent-foreground: 38 35% 96%;
+    --border: 24 20% 22%;
+    --input: 24 20% 22%;
+    --ring: 16 63% 52%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: 'DM Sans', sans-serif;
+    color: #2B211B;
+    background-color: #F5F0E7;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-weight: 500;
+    letter-spacing: -0.025em;
+    color: #2B211B;
+  }
+}
+
+@layer utilities {
+  .spiritual-gradient {
+    background: var(--gradient-spiritual);
+  }
+
+  .hero-gradient {
+    background: var(--gradient-hero);
+  }
+
+  .temple-shadow {
+    box-shadow: var(--shadow-temple);
+  }
+
+  .glow-shadow {
+    box-shadow: var(--shadow-glow);
+  }
+
+  .soft-shadow {
+    box-shadow: var(--shadow-soft);
+  }
+
+  .card-shadow {
+    box-shadow: var(--shadow-card);
+  }
+
+  .transition-smooth {
+    transition: var(--transition-smooth);
+  }
+
+  .transition-fast {
+    transition: var(--transition-fast);
+  }
+
+  .hover-lift {
+    @apply transition-smooth hover:scale-[1.02] hover:-translate-y-0.5;
+  }
+
+  .hover-glow {
+    @apply transition-smooth hover:shadow-[0_0_30px_hsl(var(--saffron-glow)/0.4)];
+  }
+
+  .hover-accent-border {
+    @apply transition-fast hover:border-l-4 hover:border-l-primary;
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}

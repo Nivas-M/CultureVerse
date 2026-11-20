@@ -1,0 +1,744 @@
+[
+  {
+    "name": "Guru Bannanje Sanjeeva Suvarna",
+    "email": "contact@yakshasanjeeva.org",
+    "phone": "+91-94481-53630",
+    "category": "folk_performer",
+    "culturalAffiliation": "Yakshasanjeeva Yakshagana Kendra",
+    "traditionPractice": "Master practitioner of Badagutittu Yakshagana, preserving traditional repertoire, choreography, and regional performance techniques.",
+    "bio": "A celebrated master and guru of the traditional Northern style (Badagutittu) of Yakshagana. He heads the Yakshasanjeeva Yakshagana Kendra in Udupi, dedicated to training next-generation artists. Over his career, he has preserved rare regional choreography, including historical Devadasi steps. He was honored with the prestigious Parthi Subba Award by the Karnataka Yakshagana Academy and has traveled to over 30 countries to showcase and teach the art form.",
+    "experienceYears": 45,
+    "languages": [
+      "kn",
+      "tcy",
+      "en"
+    ],
+    "location": {
+      "city": "Udupi",
+      "address": "Yakshasanjeeva Yakshagana Kendra, Bannanje, Udupi, Karnataka - 576101",
+      "region": "Coastal Karnataka",
+      "coordinates": [
+        74.7421,
+        13.3409
+      ]
+    },
+    "profileImage": "/images/custodians/guru_sanjeeva.png",
+    "rating": 4.9,
+    "totalReviews": 150,
+    "experiences": [
+      {
+        "title": "Badagutittu Yakshagana Masterclass",
+        "category": "folk_performance",
+        "description": "An immersive breakdown of classic Yakshagana steps, traditional footwork choreography, and character-building mechanics.",
+        "price": 1500,
+        "durationMinutes": 120,
+        "capacity": 15,
+        "culturalContext": "Traditional dance-drama practice held in an open-air training arena.",
+        "culturalGuidelines": [
+          "Wear comfortable attire",
+          "Remove footwear before entering the dance floor"
+        ],
+        "availabilitySchedule": [
+          "Saturday",
+          "Sunday"
+        ],
+        "images": [
+          "https://www.team-bhp.com/forum/attachments/travelogues/104130d1692943581t-yakshagana-coastal-karnataka-art-form-dscn1522.jpg"
+        ]
+      }
+    ],
+    "approvedKnowledge": []
+  },
+  {
+    "name": "Patla Sathish Shetty",
+    "email": "info@yakshadhruvapatla.org",
+    "phone": "+91-824-2490000",
+    "category": "folk_performer",
+    "culturalAffiliation": "Pavanje Mela",
+    "traditionPractice": "Lead Bhagavatha (playback singer and director) representing the Tenkutittu (Southern style) Yakshagana tradition.",
+    "bio": "A highly acclaimed lead vocalist and director in the Southern style (Tenkutittu) Yakshagana tradition. He serves as the principal Bhagavatha for prominent regional temple troupes, including the Pavanje Mela, driving the narrative and emotional landscape of night-long ritual acts. He is also the founder of the Yakshadhruva Patla Foundation Trust, an organization established to support and provide welfare for aging and underprivileged folk artists.",
+    "experienceYears": 25,
+    "languages": [
+      "kn",
+      "tcy",
+      "en"
+    ],
+    "location": {
+      "city": "Mangaluru",
+      "address": "Yakshadhruva Patla Foundation, Lady Hill Junction, Mangaluru, Karnataka - 575003",
+      "region": "Coastal Karnataka",
+      "coordinates": [
+        74.856,
+        12.9141
+      ]
+    },
+    "profileImage": "/images/custodians/patla_sathish.jpg",
+    "rating": 5,
+    "totalReviews": 340,
+    "experiences": [
+      {
+        "title": "Bhagavathike Acoustic Recital",
+        "category": "folk_performance",
+        "description": "An intimate evening exploring the musical ragas, unique high-pitched vocal delivery, and dynamic storytelling styles of Southern Yakshagana singing.",
+        "price": 2000,
+        "durationMinutes": 90,
+        "capacity": 25,
+        "culturalContext": "Spiritual musical invocation traditionally performed at temple melas.",
+        "culturalGuidelines": [
+          "Maintain silence during high-pitch sequences",
+          "Respectful attire required"
+        ],
+        "availabilitySchedule": [
+          "Friday",
+          "Saturday"
+        ],
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/2/28/Yakshagana_Performance_at_NINASAM_%28India_Theatre_Forum_Stuyd_Tour_May_2013%29_%288765323722%29.jpg"
+        ]
+      }
+    ],
+    "approvedKnowledge": []
+  },
+  {
+    "name": "Bannanje Babu Amin",
+    "email": "bannanjebabuamin@gmail.com",
+    "phone": "+91-98455-12345",
+    "category": "historian",
+    "culturalAffiliation": "Samskriti Sampada",
+    "traditionPractice": "Oral historian and researcher specializing in Tulu folklore, Paddanas (oral epics), and Daivaradhane traditions.",
+    "bio": "A lifelong scholar and definitive voice on the indigenous folklore (Janapada) and religious customs of Tulunadu. Born in 1944, he has written extensive foundational texts documenting local history, including Tulu Janapada Acharanegalu and Tulunada Garodigala Samskritika Adhayana, with a specific focus on the historical hero-twins Koti and Chennaya. He has been recognized with the Karnataka Tulu Sahitya Academy Award and guides folk preservation efforts with groups like Samskriti Sampada.",
+    "experienceYears": 55,
+    "languages": [
+      "kn",
+      "tcy"
+    ],
+    "location": {
+      "city": "Udupi",
+      "address": "Bannanje Resident Circle, Udupi, Karnataka - 576101",
+      "region": "Coastal Karnataka",
+      "coordinates": [
+        74.7421,
+        13.3409
+      ]
+    },
+    "profileImage": "/images/custodians/bannanje_babu.png",
+    "rating": 4.9,
+    "totalReviews": 95,
+    "experiences": [
+      {
+        "title": "Tulu Paddana History Session",
+        "category": "storytelling",
+        "description": "An oral exploration of ancient Tulu epics, narrative song patterns, and historical lore of coastal heroes like Koti and Chennaya.",
+        "price": 1000,
+        "durationMinutes": 120,
+        "capacity": 10,
+        "culturalContext": "Oral knowledge transfer mimicking traditional village gatherings.",
+        "culturalGuidelines": [
+          "Photography prohibited inside historical archives",
+          "Note-taking encouraged"
+        ],
+        "availabilitySchedule": [
+          "Monday",
+          "Wednesday"
+        ],
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/2/27/Nagamandala.jpg"
+        ]
+      }
+    ],
+    "approvedKnowledge": []
+  },
+  {
+    "name": "Dayananda Kathalsar",
+    "email": "kathalsar.tulu@karnataka.gov.in",
+    "phone": "+91-94484-76211",
+    "category": "knowledge_holder",
+    "culturalAffiliation": "Karnataka Tulu Sahitya Academy",
+    "traditionPractice": "Folk custom expert, researcher, and practitioner of Tulu oral rituals, Paddana recitation, and regional Daivaradhane histories.",
+    "bio": "A prominent cultural practitioner, oral historian, and advocate for the preservation of Tulu heritage and sacred indigenous rituals. He is the former president of the Karnataka Tulu Sahitya Academy. His life's work centers on the documentation of tribal oral lore, the recitation of sacred Paddanas, and leading community-level preservation initiatives to protect localized shrines and religious customs from commercial distortion.",
+    "experienceYears": 30,
+    "languages": [
+      "kn",
+      "tcy",
+      "en"
+    ],
+    "location": {
+      "city": "Mangaluru",
+      "address": "Tulu Bhavan, Urwa Stores, Mangaluru, Karnataka - 575006",
+      "region": "Coastal Karnataka",
+      "coordinates": [
+        74.856,
+        12.9141
+      ]
+    },
+    "profileImage": "/images/custodians/dayananda_kathalsar.png",
+    "rating": 4.8,
+    "totalReviews": 110,
+    "experiences": [
+      {
+        "title": "Sacred Groves & Daiva Ritual Lore",
+        "category": "storytelling",
+        "description": "A seminar detailing the environmental significance of Devarakadu (sacred groves) and the theological boundaries of Bhuta Kola worship.",
+        "price": 1200,
+        "durationMinutes": 100,
+        "capacity": 20,
+        "culturalContext": "Educational seminar grounded in strict community-approved folklore boundaries.",
+        "culturalGuidelines": [
+          "Dress modestly",
+          "No audio recordings of sacred chants allowed"
+        ],
+        "availabilitySchedule": [
+          "Thursday",
+          "Friday"
+        ],
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/2/28/Buta_Kola_Artist_Makeup.jpg"
+        ]
+      }
+    ],
+    "approvedKnowledge": []
+  },
+  {
+    "name": "Dinesh Holla",
+    "email": "dineshholla.art@gmail.com",
+    "phone": "+91-98453-80095",
+    "category": "artisan",
+    "culturalAffiliation": "Vanachetana",
+    "traditionPractice": "Traditional folk artist and visual designer mapping Western Ghats indigenous iconography, tribal folklore, and local ritual themes.",
+    "bio": "An internationally recognized traditional artist and environmental activist who specializes in documenting the lifestyles, myths, and rituals of the indigenous tribal communities of Coastal Karnataka through minimalist line and ink drawings. Through his initiative Vanachetana, he acts as a direct community liaison working closely with forest-dwelling tribes like the Malekudiya. He has showcased coastal art and kite designs reflecting regional practices globally.",
+    "experienceYears": 30,
+    "languages": [
+      "kn",
+      "tcy",
+      "en"
+    ],
+    "location": {
+      "city": "Mangaluru",
+      "address": "Prasad Art Gallery Compound, Ballalbagh, Mangaluru, Karnataka - 575003",
+      "region": "Coastal Karnataka",
+      "coordinates": [
+        74.856,
+        12.9141
+      ]
+    },
+    "profileImage": "/images/custodians/dinesh_holla.png",
+    "rating": 4.9,
+    "totalReviews": 180,
+    "experiences": [
+      {
+        "title": "Coastal Iconography & Line Art Workshop",
+        "category": "craft_workshop",
+        "description": "A hands-on sketching studio workshop interpreting tribal folklore symbols, Western Ghats imagery, and traditional kite shapes.",
+        "price": 1800,
+        "durationMinutes": 150,
+        "capacity": 12,
+        "culturalContext": "Creative studio interaction mapping indigenous forest visual symbols.",
+        "culturalGuidelines": [
+          "All art materials are provided",
+          "Maintain focus on tribal design ethics"
+        ],
+        "availabilitySchedule": [
+          "Saturday",
+          "Tuesday"
+        ],
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kaavi_Art_in_the_Convent_of_Santa_Monica%2C_Old_Goa%2C_India..jpg"
+        ]
+      }
+    ],
+    "approvedKnowledge": []
+  },
+  {
+    "name": "Dr. Radhakrishna Urala Kota",
+    "email": "radhakrishnaurala@gmail.com",
+    "phone": "+91-98441-26732",
+    "category": "folk_performer",
+    "culturalAffiliation": "Kala Kadamba Art Center",
+    "traditionPractice": "Master performing artist, choreographer, and scholar specializing in Yakshagana expressions and South Indian classical theater traditions.",
+    "bio": "A distinguished multi-disciplinary artist, actor, and director with an MA in Performing Arts. He is the founder of the Kala Kadamba Art Center, where he actively curates folk showcases such as Janapada Vaibhava, training youth in traditional arts. He holds a doctorate for his extensive research work on Abhinaya (stylized expressions) within Yakshagana and classical dance forms.",
+    "experienceYears": 35,
+    "languages": [
+      "kn",
+      "en"
+    ],
+    "location": {
+      "city": "Udupi",
+      "address": "Kala Kadamba Center, Kota, Udupi District, Karnataka - 576211",
+      "region": "Coastal Karnataka",
+      "coordinates": [
+        74.7118,
+        13.5186
+      ]
+    },
+    "profileImage": "/images/custodians/radhakrishna_urala.png",
+    "rating": 4.9,
+    "totalReviews": 120,
+    "experiences": [
+      {
+        "title": "Yakshagana Abhinaya Workshop",
+        "category": "craft_workshop",
+        "description": "An intensive hands-on clinic breaking down traditional mudras, theatrical expressions, and face paint semiotics used in classical coastal dramas.",
+        "price": 1800,
+        "durationMinutes": 120,
+        "capacity": 15,
+        "culturalContext": "Traditional theater space under the lineage guidance of Kota masters.",
+        "culturalGuidelines": [
+          "Modest active wear recommended",
+          "Acknowledge the performance altar upon entrance"
+        ],
+        "availabilitySchedule": [
+          "Saturday",
+          "Sunday"
+        ],
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/e/e2/Yakshagana_Artist.jpg"
+        ]
+      }
+    ],
+    "approvedKnowledge": []
+  },
+  {
+    "name": "Harinarayana Asranna",
+    "email": "contact@kateeltemple.org",
+    "phone": "+91-824-2200331",
+    "category": "priest",
+    "culturalAffiliation": "Shri Durga Parameshwari Temple Kateel",
+    "traditionPractice": "Hereditary Chief Priest (Pradhana Archak) and custodian of Kateel temple liturgical traditions and associated ritual melas.",
+    "bio": "The hereditary head priest and prime traditional custodian of the highly revered Shri Durga Parameshwari Temple in Kateel. Belonging to the historic Asranna lineage, he oversees the temple's daily Vedic litanies and traditional administrative codes. He is a primary driving force behind the historic Kateel Yakshagana Mela, preserving centuries-old night-long temple performance vow mandates across coastal villages.",
+    "experienceYears": 40,
+    "languages": [
+      "kn",
+      "tcy",
+      "en"
+    ],
+    "location": {
+      "city": "Mangaluru",
+      "address": "Shri Durga Parameshwari Temple, Kateel, Mangaluru Taluk, Dakshina Kannada, Karnataka - 574148",
+      "region": "Coastal Karnataka",
+      "coordinates": [
+        74.8464,
+        13.0182
+      ]
+    },
+    "profileImage": "/images/custodians/harinarayana_asranna.png",
+    "rating": 5,
+    "totalReviews": 500,
+    "experiences": [
+      {
+        "title": "Vedic Temple Architecture & Ritual Lore",
+        "category": "storytelling",
+        "description": "An authoritative walk-through detailing the legendary history, historical inscriptions, and strict cosmological architecture of the river-island shrine.",
+        "price": 1200,
+        "durationMinutes": 75,
+        "capacity": 20,
+        "culturalContext": "Sacred temple parameters requiring absolute liturgical preservation.",
+        "culturalGuidelines": [
+          "Strict traditional dress code applies",
+          "Electronic devices prohibited during the study session"
+        ],
+        "availabilitySchedule": [
+          "Tuesday",
+          "Thursday"
+        ],
+        "images": [
+          "https://images.deccanherald.com/deccanherald/import/sites/dh/files/gallery_images/file786qezkauky1gg36j2s7.jpg"
+        ]
+      }
+    ],
+    "approvedKnowledge": []
+  },
+  {
+    "name": "Sagri Gopalakrishna Samaga",
+    "email": "sagrisamaga@gmail.com",
+    "phone": "+91-94483-84122",
+    "category": "knowledge_holder",
+    "culturalAffiliation": "Sagri Shri Vasuki Subrahmanya Temple",
+    "traditionPractice": "Hereditary Nagapatri (ritual oracle practitioner) and managing custodian of ancient serpent-deity invocation ceremonies.",
+    "bio": "A deeply respected spiritual custodian and hereditary Nagapatri based at the historical Sagri Shri Vasuki Subrahmanya Temple in Udupi. He serves as the primary direct medium and practitioner for complex coastal snake-deity ritual systems, leading monumental regional ceremonies including Nagamandala seve and Ashlesha Bali across both Udupi and Dakshina Kannada districts.",
+    "experienceYears": 35,
+    "languages": [
+      "kn",
+      "tcy"
+    ],
+    "location": {
+      "city": "Udupi",
+      "address": "Sagri Shri Vasuki Subrahmanya Temple, Kunjibettu, Udupi, Karnataka - 576102",
+      "region": "Coastal Karnataka",
+      "coordinates": [
+        74.7644,
+        13.3512
+      ]
+    },
+    "profileImage": "/images/custodians/sagri_gopalakrishna.png",
+    "rating": 4.9,
+    "totalReviews": 210,
+    "experiences": [
+      {
+        "title": "Nagamandala Sacred Iconography Study",
+        "category": "storytelling",
+        "description": "A comprehensive lecture mapping out the geometric mandala art floor constructions, snake worship pantheons, and indigenous music structures of the coast.",
+        "price": 1500,
+        "durationMinutes": 90,
+        "capacity": 15,
+        "culturalContext": "Conducted within the outer pavilions of the ancestral temple campus.",
+        "culturalGuidelines": [
+          "Modest clothing required",
+          "Refrain from touching the ritual floor blueprints"
+        ],
+        "availabilitySchedule": [
+          "Wednesday",
+          "Friday"
+        ],
+        "images": [
+          "https://sreenivasaraos.com/wp-content/uploads/2018/06/naga-worship.jpg"
+        ]
+      }
+    ],
+    "approvedKnowledge": []
+  },
+  {
+    "name": "Purushottama Adve",
+    "email": "purushottama.adve@gmail.com",
+    "phone": "+91-94488-62410",
+    "category": "artisan",
+    "culturalAffiliation": "Udupi Shilpakala Kendra",
+    "traditionPractice": "Master sculptor specializing in traditional stone carving, iconography restoration, and Shilpa Shastra temple artistry.",
+    "bio": "An expert traditional sculptor and academic researcher deeply rooted in the coastal craft belt. Having trained multiple generations of fine stone carvers, he is an authority on extracting native regional stones and sculpting them into precise, divine postures as specified by canonical Hindu texts. His works reside across numerous renovated coastal shrines.",
+    "experienceYears": 32,
+    "languages": [
+      "kn",
+      "en"
+    ],
+    "location": {
+      "city": "Udupi",
+      "address": "Adve Shilpa Studio, Near National Highway, Saligrama, Udupi District, Karnataka - 576225",
+      "region": "Coastal Karnataka",
+      "coordinates": [
+        74.7188,
+        13.4984
+      ]
+    },
+    "profileImage": "/images/custodians/purushottama_adve.jpg",
+    "rating": 4.8,
+    "totalReviews": 85,
+    "experiences": [
+      {
+        "title": "Shilpa Shastra Chisel Basics",
+        "category": "craft_workshop",
+        "description": "A meticulous introduction to traditional stone identification, rough line marking, and basic iron chisel mallet techniques on native stone boulders.",
+        "price": 2500,
+        "durationMinutes": 180,
+        "capacity": 8,
+        "culturalContext": "An active open-air carving workshop filled with flying stone dust and rhythmic hammer strokes.",
+        "culturalGuidelines": [
+          "Eye protection and closed shoes are mandatory",
+          "Follow handling instructions precisely"
+        ],
+        "availabilitySchedule": [
+          "Monday",
+          "Thursday"
+        ],
+        "images": [
+          "https://images.prismic.io/pallavinopany/Ztrn9rzzk9ZrXGQ8_forest1.jpg"
+        ]
+      }
+    ],
+    "approvedKnowledge": []
+  },
+  {
+    "name": "Vidwan Korgi Venkatesha Upadhyaya",
+    "email": "korgivenkatesha@gmail.com",
+    "phone": "+91-94496-41250",
+    "category": "historian",
+    "culturalAffiliation": "Sahitya Prakashana Trust",
+    "traditionPractice": "Vedic epigraphist, linguistic historian, and classical author archiving coastal socio-religious traditions and language systems.",
+    "bio": "An elite literary scholar, public intellectual, and traditional historian from the Kundapura region. He has authored definitive, award-winning research books including Shabda Samsaara, Pancha Prapancha, and Moorara Mahime. His life's work focuses on interpreting complex classical scripts, documentation of localized temple histories, and grammar systems unique to coastal communities.",
+    "experienceYears": 45,
+    "languages": [
+      "kn",
+      "en"
+    ],
+    "location": {
+      "city": "Kundapura",
+      "address": "Korgi Heritage Complex, Korgi, Kundapura Taluk, Udupi District, Karnataka - 576231",
+      "region": "Coastal Karnataka",
+      "coordinates": [
+        74.7641,
+        13.6289
+      ]
+    },
+    "profileImage": "/images/custodians/korgi_venkatesha.png",
+    "rating": 4.9,
+    "totalReviews": 140,
+    "experiences": [
+      {
+        "title": "Coastal Manuscripts & Script Reading",
+        "category": "storytelling",
+        "description": "An intimate archival clinic analyzing structural compositions of rare regional scripts, palm-leaf document storage, and coastal village histories.",
+        "price": 1200,
+        "durationMinutes": 120,
+        "capacity": 10,
+        "culturalContext": "Held inside a quiet, private heritage library setting.",
+        "culturalGuidelines": [
+          "Handle archival items only with provided tools",
+          "No flashes or high-intensity lights allowed"
+        ],
+        "availabilitySchedule": [
+          "Friday",
+          "Saturday"
+        ],
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/8/88/Palm_leaf_manuscript.jpg"
+        ]
+      }
+    ],
+    "approvedKnowledge": []
+  },
+  {
+    "name": "Dr. M. Prabhakar Joshi",
+    "email": "prabhakarjoshi.yaksha@gmail.com",
+    "phone": "+91-94485-42330",
+    "category": "historian",
+    "culturalAffiliation": "Yaksha Dhruva Patla Foundation Trust",
+    "traditionPractice": "Foremost scholar, critic, and master Talamaddale Arthadhari (orator) of both Tenkutittu and Badagutittu Yakshagana genres.",
+    "bio": "A legendary academic authority, orator, and percussionist who has shaped contemporary Yakshagana discourse for over five decades. He holds a doctorate for his landmark thesis on the traditional, dialogue-only offshoot Talamaddale. He is a recipient of the prestigious Parthi Subba Award and serves as a premier research guide and textual consultant for traditional coastal troupes.",
+    "experienceYears": 50,
+    "languages": [
+      "kn",
+      "en",
+      "tcy"
+    ],
+    "location": {
+      "city": "Mangaluru",
+      "address": "Malleswaram Cross Road, Ashoknagar, Mangaluru, Karnataka - 575006",
+      "region": "Coastal Karnataka",
+      "coordinates": [
+        74.8431,
+        12.8912
+      ]
+    },
+    "profileImage": "/images/custodians/prabhakar_joshi.png",
+    "rating": 5,
+    "totalReviews": 210,
+    "experiences": [
+      {
+        "title": "Talamaddale Logic and Oratory Masterclass",
+        "category": "storytelling",
+        "description": "An intimate seminar analyzing impromptu prose structure, mythological interpretation, and scriptural cross-examinations used in traditional coastal debate assemblies.",
+        "price": 1500,
+        "durationMinutes": 120,
+        "capacity": 15,
+        "culturalContext": "Conducted in a classical parlor style mimicking historic village dispute courts.",
+        "culturalGuidelines": [
+          "Familiarity with Hindu epics is beneficial",
+          "Note-taking and active debate query formatting encouraged"
+        ],
+        "availabilitySchedule": [
+          "Saturday",
+          "Monday"
+        ],
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/9/94/Chenda_melam.jpg"
+        ]
+      }
+    ],
+    "approvedKnowledge": []
+  },
+  {
+    "name": "Sri K.V. Ramesh",
+    "email": "gopalrao.gombeyata@gmail.com",
+    "phone": "+91-98801-44751",
+    "category": "artisan",
+    "culturalAffiliation": "Sri Ganesha Yakshagana Gombeyata Mandali",
+    "traditionPractice": "Master puppeteer and wood carver keeping alive the rare art of Yakshagana Gombeyata (traditional string puppetry).",
+    "bio": "A pioneering master craftsman based out of Kasaragod and South Canara regions, running the last remaining traditional family troupe dedicated to Yakshagana String Puppetry. He carries forward ancestral lineages in carving heavy jackwood puppet structures, fabricating miniature coastal crowns (Kiratas), and orchestrating elaborate ritual puppetry spectacles modeled after regional temple melas.",
+    "experienceYears": 40,
+    "languages": [
+      "kn",
+      "tcy"
+    ],
+    "location": {
+      "city": "Mangaluru",
+      "address": "Ganesha Puppetry Arena, Talapady Border, Mangaluru, Karnataka - 575023",
+      "region": "Coastal Karnataka",
+      "coordinates": [
+        74.8722,
+        12.7661
+      ]
+    },
+    "profileImage": "/images/custodians/kv_ramesh.png",
+    "rating": 4.9,
+    "totalReviews": 95,
+    "experiences": [
+      {
+        "title": "Traditional Puppet Assembly Workshop",
+        "category": "craft_workshop",
+        "description": "A close-up studio workshop focusing on string-joint balancing, traditional eco-painting methods, and the basic manipulation mechanics of Yakshagana puppets.",
+        "price": 2000,
+        "durationMinutes": 150,
+        "capacity": 10,
+        "culturalContext": "An indigenous puppet workshop operating within a hereditary household compound.",
+        "culturalGuidelines": [
+          "All tools provided",
+          "Treat puppet forms with the same respect as temple idols"
+        ],
+        "availabilitySchedule": [
+          "Wednesday",
+          "Sunday"
+        ],
+        "images": [
+          "https://d218byoo78ov75.cloudfront.net/images/4ceded04af823a0b5082e9e4d09ff91b.jpg"
+        ]
+      }
+    ],
+    "approvedKnowledge": []
+  },
+  {
+    "name": "Kadri Navaneeth Shetty",
+    "email": "navaneethshetty.kadri@gmail.com",
+    "phone": "+91-94484-63215",
+    "category": "storyteller",
+    "culturalAffiliation": "Mangaluru Karavali Utsav Committee",
+    "traditionPractice": "Elite folklorist, Tulu oral epic reciter, and traditional master of ceremonies specializing in coastal folklore systems.",
+    "bio": "A legendary voice actor, media personality, and community archivist who acts as the primary oral narrator for major cultural and temple events across Dakshina Kannada. He is widely recognized for his unmatched lexicon of classical Tulu vocabulary, proverbs, and his active propagation of coastal hero lores, sports heritages like Kambala, and rural folk narratives.",
+    "experienceYears": 30,
+    "languages": [
+      "kn",
+      "tcy",
+      "en"
+    ],
+    "location": {
+      "city": "Mangaluru",
+      "address": "Kadri Kambala Road Residency, Mangaluru, Karnataka - 575002",
+      "region": "Coastal Karnataka",
+      "coordinates": [
+        74.8544,
+        12.8761
+      ]
+    },
+    "profileImage": "/images/custodians/navaneeth_shetty.png",
+    "rating": 4.9,
+    "totalReviews": 175,
+    "experiences": [
+      {
+        "title": "Kambala History and Folk Narrative Trail",
+        "category": "heritage_walk",
+        "description": "A curated walking tour traversing traditional racing muddy fields while tracking the history of agrarian legends, ritual chants, and ancestral landlord line structures.",
+        "price": 1200,
+        "durationMinutes": 100,
+        "capacity": 25,
+        "culturalContext": "Conducted around rural agricultural wetlands and historic manor yards.",
+        "culturalGuidelines": [
+          "Waterproof or washable footwear mandatory",
+          "Respect private agricultural boundary walls"
+        ],
+        "availabilitySchedule": [
+          "Saturday",
+          "Tuesday"
+        ],
+        "images": [
+          "https://media.assettype.com/deccanherald%2Fimport%2Fsites%2Fdh%2Ffiles%2Farticle_images%2F2020%2F02%2F22%2Fkambala-1582337250.jpg"
+        ]
+      }
+    ],
+    "approvedKnowledge": []
+  },
+  {
+    "name": "Kalladka Ramesh Acharya",
+    "email": "rameshacharya.stone@gmail.com",
+    "phone": "+91-94482-17450",
+    "category": "artisan",
+    "culturalAffiliation": "Bantwal Vishwakarma Shilpa Guild",
+    "traditionPractice": "Master woodcarver and temple cart (Ratha) architect specializing in heavy timber sacred assembly engineering.",
+    "bio": "A veteran traditional wood artisan from the regional Vishwakarma guild who designs massive timber temple chariots (Rathas), structural sanctum doorways, and sacred pedestals for coastal shrines. He works with native jackwood and teak, shaping narrative relief panels that depict local historical battles and divine epics.",
+    "experienceYears": 38,
+    "languages": [
+      "kn",
+      "tcy"
+    ],
+    "location": {
+      "city": "Bantwal",
+      "address": "Shilpa Workshop Compound, Kalladka, Bantwal Taluk, Karnataka - 574222",
+      "region": "Coastal Karnataka",
+      "coordinates": [
+        75.0232,
+        12.8415
+      ]
+    },
+    "profileImage": "/images/custodians/generic_avatar.png",
+    "rating": 4.8,
+    "totalReviews": 65,
+    "experiences": [
+      {
+        "title": "Sacred Relief Architecture Carving Masterclass",
+        "category": "craft_workshop",
+        "description": "An introduction to traditional relief deep-carving mechanics, heavy wood grain assessments, and specialized geometric temple template transfers.",
+        "price": 2200,
+        "durationMinutes": 180,
+        "capacity": 6,
+        "culturalContext": "An active architectural workshop filled with structural timber columns.",
+        "culturalGuidelines": [
+          "Sturdy clothing required",
+          "Follow strict hammer coordination signals"
+        ],
+        "availabilitySchedule": [
+          "Thursday",
+          "Friday"
+        ],
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/1/12/DoorCarvingsKalaseswaraTemple.jpg"
+        ]
+      }
+    ],
+    "approvedKnowledge": []
+  },
+  {
+    "name": "Shridhar Bhat Perdur",
+    "email": "shridharperdur@gmail.com",
+    "phone": "+91-94491-88230",
+    "category": "knowledge_holder",
+    "culturalAffiliation": "Perdur Shree Ananthapadmanabha Temple",
+    "traditionPractice": "Traditional ritual documentation specialist, oral genealogist, and temple historic record keeper.",
+    "bio": "An expert local historian and record keeper at the ancient Perdur temple grid. For decades, he has managed, cataloged, and interpreted community vow tracking registers, historical donation copperplates, and palm leaves outlining familial descent systems across the surrounding multi-village agrarian networks.",
+    "experienceYears": 35,
+    "languages": [
+      "kn",
+      "tcy"
+    ],
+    "location": {
+      "city": "Udupi",
+      "address": "Temple Office Lane, Perdur, Udupi District, Karnataka - 576124",
+      "region": "Coastal Karnataka",
+      "coordinates": [
+        74.9211,
+        13.3644
+      ]
+    },
+    "profileImage": "/images/custodians/generic_avatar.png",
+    "rating": 4.7,
+    "totalReviews": 110,
+    "experiences": [
+      {
+        "title": "Ancestral Records and Village Lineage Study",
+        "category": "storytelling",
+        "description": "An exploration of historical settlement layouts, village border systems, and ancestral family vow records kept within local temple administrative circles.",
+        "price": 1000,
+        "durationMinutes": 90,
+        "capacity": 12,
+        "culturalContext": "Conducted within the quiet courtyard structures of historical village centers.",
+        "culturalGuidelines": [
+          "Maintain quiet within documentation zones",
+          "Footwear must be removed at outer thresholds"
+        ],
+        "availabilitySchedule": [
+          "Friday",
+          "Sunday"
+        ],
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/3/37/Dharmeshwara_Temple_Plates_HT-34.jpg"
+        ]
+      }
+    ],
+    "approvedKnowledge": []
+  }
+]

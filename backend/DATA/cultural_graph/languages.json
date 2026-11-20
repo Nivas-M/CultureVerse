@@ -1,0 +1,42 @@
+[
+  {
+    "id": "LANG-001",
+    "name": "Tulu",
+    "family": "Dravidian (Independent branch)",
+    "script": "Historically Tigalari script; modern usage Kannada script",
+    "status": "Indigenous language of Tulunadu, renowned for oral epics (Paddana)",
+    "speakers": "Approx. 2.5 million"
+  },
+  {
+    "id": "LANG-002",
+    "name": "Kundagannada",
+    "family": "Dravidian (Archaic Kannada dialect)",
+    "script": "Kannada",
+    "status": "Distinct coastal dialect of Kundapura with archaic Halegannada grammatical features",
+    "speakers": "Approx. 800,000"
+  },
+  {
+    "id": "LANG-003",
+    "name": "Havyaka Kannada",
+    "family": "Dravidian (Archaic Kannada dialect)",
+    "script": "Kannada",
+    "status": "Spoken by the Havyaka community of Uttara Kannada with distinctive classical phonetics",
+    "speakers": "Approx. 500,000"
+  },
+  {
+    "id": "LANG-004",
+    "name": "Mangalorean Konkani",
+    "family": "Indo-Aryan",
+    "script": "Kannada script",
+    "status": "Rich coastal literary language of the Saraswat, Catholic, and Kudumbi communities",
+    "speakers": "Approx. 1 million"
+  },
+  {
+    "id": "LANG-005",
+    "name": "Beary Bashe",
+    "family": "Dravidian (Hybrid Tulu-Malayalam-Arabic vocabulary)",
+    "script": "Kannada / Arabic",
+    "status": "Spoken by coastal Muslim Beary community, reflecting centuries of oceanic trade",
+    "speakers": "Approx. 600,000"
+  }
+]
